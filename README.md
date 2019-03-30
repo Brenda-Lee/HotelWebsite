@@ -1,2 +1,2 @@
 # HotelWebsite
-Flinstones
+Flintstones
