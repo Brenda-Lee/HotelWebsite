@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+     background-color:#EDEDED
+
+}
+
+footer {
+    height: 10%;
+    width: 100%;
+    background-color: rgb(192, 192, 168);
+}
+
+#navegador ul {
+    padding:30px;
+    margin:0px;
+    background-color:#BDBDBD;
+    list-style:none;
+
+}
+
+#navegador ul li { 
+    display: inline; 
+
+}
+
+#navegador ul li a {
+    padding: 5px 30px;
+    display: inline-block;
+
+    /* visual do link */
+    background-color:#BDBDBD;
+    color: #333;
+    text-decoration: none;
+    font-family: sans-serif;
+	font-size: 16px;
+    border-bottom: 5px solid #EDEDED;
+}
+
+#navegador ul li a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom: 3px solid #EA0000;
+}
+
+div .logo-hotel{
+    float: left;
+}
+
+.logo-hotel img {
+    height: 30%;
+	float: left;
+}
+
+.i h1 {
+    text-align: center;
+    display: block;
+    height: 70px;
+    padding-top: 25px;
+}
+
+.i .img-fachada {
+    width: 100%;
+}
+
+main .ii {
+    height: 50%;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 4%;
+}
+
+.ii div.frase-efeito h2{
+    display: block;
+    text-align: center;
+    width: 30%;
+    height: 10%;
+    padding-top: 15%;
+    padding-bottom: 10px;
+    float: left;
+}
+
+.ii img.img-mapa{
+    display: block;
+    float: right;
+    width: 70%;
+    height: 100%;
+}
+
+main .iii{
+    height: 25%;
+    width: 100%;
+    padding-top: 4%;
+}
+main .iv{
+    height: 25%;
+    width: 100%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+footer div{
+    text-align: right;
+    padding: 4% 5% 6% 0;
+}
